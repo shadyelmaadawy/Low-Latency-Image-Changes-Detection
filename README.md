@@ -33,17 +33,17 @@ This is the idea, no loops, sockets, or something huge happened, just the "Idea"
 
 1 - 1st Screenshot:
 
-![](https://raw.githubusercontent.com/shadyelmaadawy/Low-Latency-Image-Changes-Detection/master/1.png=250x250)
+![](https://raw.githubusercontent.com/shadyelmaadawy/Low-Latency-Image-Changes-Detection/master/1.png)
 
 2 - 2nd Screenshot: 
 
-![](https://raw.githubusercontent.com/shadyelmaadawy/Low-Latency-Image-Changes-Detection/master/2.png=250x250)
+![](https://raw.githubusercontent.com/shadyelmaadawy/Low-Latency-Image-Changes-Detection/master/2.png)
 
 3 - Compare result:
 
-![](\https://raw.githubusercontent.com/shadyelmaadawy/Low-Latency-Image-Changes-Detection/master/3.png)
+![](https://raw.githubusercontent.com/shadyelmaadawy/Low-Latency-Image-Changes-Detection/master/3.png)
 
-![](\https://raw.githubusercontent.com/shadyelmaadawy/Low-Latency-Image-Changes-Detection/master/4.png=250x250)
+![](https://raw.githubusercontent.com/shadyelmaadawy/Low-Latency-Image-Changes-Detection/master/4.png)
 
 I think this code was written at the end of 2015, and was in the darkness for a long time, 
 
