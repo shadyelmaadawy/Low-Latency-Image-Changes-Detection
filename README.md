@@ -45,6 +45,8 @@ This is the idea, no loops, sockets, or something huge happened, just the "Idea"
 
 ![](https://raw.githubusercontent.com/shadyelmaadawy/Low-Latency-Image-Changes-Detection/master/4.png)
 
+> NOTE: THIS IS A VIRTUAL MACHINE, IN A REAL DEVICE LATENCY SHOULD BE AROUND 3~5 ms
+
 I think this code was written at the end of 2015, and was in the darkness for a long time, 
 
 But today, I refining and rewriting It to bring it to the light and apply some changes that happened to me over the years.
@@ -52,7 +54,7 @@ But today, I refining and rewriting It to bring it to the light and apply some c
 
 ## Shady’s Dilemma
 
-“What Happens in Vegas, Stays in Vegas”
+> “What Happens in Vegas, Stays in Vegas”
 
 I did not mention how to draw the changes that have happened, how to crop the changed blocks, or native APIs function that you will use to do that, 
 
