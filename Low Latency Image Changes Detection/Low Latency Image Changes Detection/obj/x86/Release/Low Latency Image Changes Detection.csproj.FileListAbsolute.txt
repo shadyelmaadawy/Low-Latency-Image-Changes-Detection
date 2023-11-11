@@ -1,0 +1,10 @@
+C:\Users\shadudiix\source\repos\Low Latency Image Changes Detection\Low Latency Image Changes Detection\bin\x86\Release\Low Latency Image Changes Detection.exe.config
+C:\Users\shadudiix\source\repos\Low Latency Image Changes Detection\Low Latency Image Changes Detection\bin\x86\Release\Low Latency Image Changes Detection.exe
+C:\Users\shadudiix\source\repos\Low Latency Image Changes Detection\Low Latency Image Changes Detection\bin\x86\Release\Low Latency Image Changes Detection.pdb
+C:\Users\shadudiix\source\repos\Low Latency Image Changes Detection\Low Latency Image Changes Detection\obj\x86\Release\Low Latency Image Changes Detection.csproj.AssemblyReference.cache
+C:\Users\shadudiix\source\repos\Low Latency Image Changes Detection\Low Latency Image Changes Detection\obj\x86\Release\Low_Latency_Image_Changes_Detection.MainForm.resources
+C:\Users\shadudiix\source\repos\Low Latency Image Changes Detection\Low Latency Image Changes Detection\obj\x86\Release\Low_Latency_Image_Changes_Detection.Properties.Resources.resources
+C:\Users\shadudiix\source\repos\Low Latency Image Changes Detection\Low Latency Image Changes Detection\obj\x86\Release\Low Latency Image Changes Detection.csproj.GenerateResource.cache
+C:\Users\shadudiix\source\repos\Low Latency Image Changes Detection\Low Latency Image Changes Detection\obj\x86\Release\Low Latency Image Changes Detection.csproj.CoreCompileInputs.cache
+C:\Users\shadudiix\source\repos\Low Latency Image Changes Detection\Low Latency Image Changes Detection\obj\x86\Release\Low Latency Image Changes Detection.exe
+C:\Users\shadudiix\source\repos\Low Latency Image Changes Detection\Low Latency Image Changes Detection\obj\x86\Release\Low Latency Image Changes Detection.pdb
