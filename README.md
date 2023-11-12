@@ -13,7 +13,7 @@ When I want to do something, I do it, there are no limits to my imagination.
 I used to use Anydesk / TeamViewer for remote administration, but I was always facing poor "Quality", bad connection for no reason, and a thousand disconnects per second, so? 
 
 
-I created my own remote access tool, yep, do not be shocked, I stopped using a lot of official programs a long time ago, and yes, I just write what I want in my resume, not everything there, my knowledge In .NET is not limited to SQL Queries.. Programming Languages are just a TOOL, I am playing with it as I want ; )
+I created my own remote access tool, yep, do not be shocked, I stopped using a lot of official programs a long time ago, and yes, I just write what I want in my resume, not everything there, my knowledge In .NET is not limited to SQL Queries.. Programming Languages is just a TOOL, I am playing with it as I want ; )
 
 ## Where is the solution?
 
